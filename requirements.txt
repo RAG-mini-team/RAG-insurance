@@ -1,0 +1,15 @@
+fastapi>=0.110
+uvicorn[standard]
+pydantic>=2
+langchain>=0.2.6
+langchain-community>=0.2.6
+langchain-openai>=0.1.7
+openai
+langchain-huggingface>=0.1.1
+sentence-transformers>=2.3.0
+transformers>=4.40.0
+huggingface_hub>=0.23.0
+pypdf
+python-multipart
+streamlit
+torch

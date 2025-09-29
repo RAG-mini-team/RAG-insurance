@@ -1,0 +1,50 @@
+# Virtual environments
+venv/
+venv_*/
+.venv/
+env/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# FAISS index files
+faiss_db/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Test files
+test_*.py
+test_*.txt
+check_*.py
+
+# Large installation files
+*.sh
+miniconda*
+
+# Temporary files
+*.tmp
+*.temp
